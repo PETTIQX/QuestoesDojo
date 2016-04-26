@@ -3,8 +3,9 @@ O programa deve trocar as chaves pela posição do vetor de strings:
 
 EXEMPLOS:
 
-Entrada: "Oi, meu nome é $0$", ["Goku"]
-Saída: "Oi, meu nome é Goku"
+Entrada: "Oi, eu sou o $0$", ["Goku"]
+Saída: "Oi, eu sou o Goku"
 
 Entrada: "O negócio é $0$ e $1$", ["tomar água", "estudar"]
 Saída: "O negócio é tomar água e estudar"
+

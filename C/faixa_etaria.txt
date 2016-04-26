@@ -18,4 +18,4 @@ EXEMPLO:
 FIM
 >> 40
 >> Adulto
- 
+FIM 

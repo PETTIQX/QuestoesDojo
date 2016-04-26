@@ -1,0 +1,10 @@
+JOGO DO PAR OU ÍMPAR
+
+Crie um programa que receba dois números inteiros
+referentes à opção selecionada por cada um dos
+usuários que irão disputar o PAR OU ÍMPAR.
+
+>> O programa deve seguir a seguinte lógica:
+O número 1 equivale à opção ÍMPAR.
+O número 2 equivale à opção PAR.
+Qualquer outro valor 

@@ -1,4 +1,4 @@
-Faça um programa que recebe uma string com 'chaves' e um vetor de strings entre colchetes. 
+Faça um programa que recebe uma string com 'chaves' (no formato '$NÚMERO$') e um vetor de strings entre colchetes. 
 O programa deve trocar as chaves pela posição do vetor de strings:
 
 EXEMPLOS:

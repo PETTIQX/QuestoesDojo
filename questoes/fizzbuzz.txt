@@ -1,7 +1,7 @@
-Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz?".
 
-	Escreva um programa que imprime os números de 1 a 100. Mas para multiplos de 3 imprime "Fizz" em vez do número e para multiplos de 5 imprime "Buzz".
-Para números que são multiplos de ambos, imprime "FizzBuzz?".
+Escreva um programa que imprime os números de 1 a 100. 
+Mas para multiplos de 3 imprime "Fizz" em vez do número e para multiplos de 5 imprime "Buzz".
+Para números que são multiplos de ambos, imprime "FizzBuzz".
 
 EXEMPLO DE OUTPUT:
 1

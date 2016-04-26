@@ -1,0 +1,21 @@
+Crie um programa que recebe um valor inteiro,
+referente à idade do usuário, e apresente como
+saída a classificação etária a qual ele pertence.
+
+A classificação sege a seguinte lógica:
+0 <= idade < 12      -> Criança
+12 <= idade < 24     -> Jovem
+24 <= idade < 60     -> Adulto
+60 <= idade          -> Idoso
+
+A saída deve consistir apenas da palavra referente
+à classificação a qual o usuário pertence.
+
+EXEMPLO:
+
+>> 20
+>> Jovem
+FIM
+>> 40
+>> Adulto
+ 

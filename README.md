@@ -3,5 +3,5 @@ Questoes
 
 
 ## Fontes:
-..- http://dojopuzzles.com/
-..- http://codingdojo.org/cgi-bin/index.pl?KataCatalogue 
+- http://dojopuzzles.com/
+- http://codingdojo.org/cgi-bin/index.pl?KataCatalogue 

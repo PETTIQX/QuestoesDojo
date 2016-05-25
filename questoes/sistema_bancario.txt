@@ -1,0 +1,33 @@
+SISTEMA BANCÁRIO
+
+-> Deve armazenar até 100 contas
+    -> Contas são reprsentadas por dois vetores:
+        -> Vetor (matriz) de nomes;
+        -> Vetor de saldos em conta;
+          
+         ID    NOME            SALDO  
+CONTA     0   [char*] ------> [float]
+
+-> Funcionalidades (menu):
+    -> Realizar depósito:
+        -> Informar ID da conta e valor depositado:
+            -> Verificar se a conta existe;
+            -> Valor não pode ser negativo;
+    
+    -> Realizar saque:
+        -> Informar ID da conta e valor a ser sacado:
+            -> Valor não pode ser negativo;
+            -> Verificar se a conta existe;
+            -> Verificar se valor pode ser sacado;
+    
+    -> Realizar transferência:
+        -> Informar ID da conta 1 (de), ID a conta 2 (para) e valor a ser transferido:
+            -> Valor não pode ser negavivo;
+            -> Verificar se ambas as contas existem;
+            -> Verificar se valor pode ser transferido;        
+            
+    -> Criar nova conta:
+        -> Informar nome de usuário da conta;
+            
+Obs.: O menu deve ser exibido novamente após a realização de qualquer
+funcionalidade.
